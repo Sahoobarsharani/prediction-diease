@@ -1,1 +1,1 @@
-# prediction-diease
+# Prediction of Disease Outbreaks 
